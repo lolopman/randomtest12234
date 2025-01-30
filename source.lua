@@ -1258,7 +1258,7 @@ end))
 
 local crosshair_position = "Middle"
 
-local Cursor = loadstring(game:HttpGet("https://gist.githubusercontent.com/CongoOhioDog/53ec2f8bdde91bda1d9a17fe5d11e23f/raw/1e5dde366ce1f20ea6621ed230837eb69f441dbc/gistfile1.txt",true))()
+local Cursor = loadstring(game:HttpGet("https://raw.githubusercontent.com/lolopman/randomtest12234/refs/heads/main/cursor.lua",true))()
 getgenv().crosshair.color = Library.Accent
     getgenv().crosshair.mode = "Middle"
     getgenv().crosshair.sticky = false
