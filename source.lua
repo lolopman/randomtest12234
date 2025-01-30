@@ -18,7 +18,7 @@ local startTime = os.clock()
 repeat wait() until game:IsLoaded()
 
 
-loadstring(game:HttpGet("https://gist.githubusercontent.com/CongoOhioDog/a176e78a0053eb3c1a48e58dece4ebb0/raw/b37a50cf92c1c427512ca44e6341315124521522/gistfile1.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lolopman/randomtest12234/refs/heads/main/adonis.lua"))()
 
 
 if not LPH_OBFUSCATED then
